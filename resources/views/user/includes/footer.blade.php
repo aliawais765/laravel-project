@@ -1,0 +1,65 @@
+
+  <footer id="footer" class="footer dark-background">
+
+    <div class="container">
+      <div class="row gy-3">
+        <div class="col-lg-4 col-md-6 d-flex">
+          <i class="bi bi-geo-alt icon"></i>
+          <div class="address">
+            <h4>Address</h4>
+            <p>Gujranwala Road Hafizabad </p>
+            <p>near Punjab Group of Colleges</p>
+            <p></p>
+          </div>
+
+        </div>
+
+        <div class="col-lg-4 col-md-6 d-flex">
+          <i class="bi bi-telephone icon"></i>
+          <div>
+            <h4>Contact</h4>
+            <p>
+              <strong>Phone:</strong> <span>+923415464720</span><br>
+              <strong>Email:</strong> <span>shahidhfd@gmail.com</span><br>
+            </p>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 d-flex">
+          <i class="bi bi-clock icon"></i>
+          <div>
+            <h4>Opening Hours</h4>
+            <p>
+              <strong>Mon-Sat:</strong> <span>11AM - 23PM</span><br>
+              <strong>Sunday</strong>: <span>Closed</span>
+            </p>
+          </div>
+        </div>
+
+
+      </div>
+    </div>
+
+    <div class="container copyright text-center mt-4">
+      <p>© <span>Copyright</span> <strong class="px-1 sitename">Malik developers</strong> <span>All Rights Reserved</span></p>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you've purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
+        Designed by Malik developers
+      </div>
+    </div>
+  <!-- Preloader -->
+  <div id="preloader"></div>
+<!-- Vendor JS Files -->
+<script src="{{ asset('assets/vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
+<script src="{{ asset('assets/vendor/php-email-form/validate.js') }}"></script>
+<script src="{{ asset('assets/vendor/aos/aos.js') }}"></script>
+<script src="{{ asset('assets/vendor/glightbox/js/glightbox.min.js') }}"></script>
+<script src="{{ asset('assets/vendor/purecounter/purecounter_vanilla.js') }}"></script>
+<script src="{{ asset('assets/vendor/swiper/swiper-bundle.min.js') }}"></script>
+
+<!-- Main JS File -->
+<script src="{{ asset('assets/js/main.js') }}"></script>
+  </footer>
